@@ -1,4 +1,4 @@
-# Crop-Disease-in-Uganda
+Project 02: Crop-Disease-in-Uganda by WorldQuant University Applied AI course
 
 In this project we'll be working with a dataset of crop disease images from Uganda. We'll build and train a convolutional neural network to classify images into five categories. In the project we'll learn how to improve the performance of a computer vision model by using pre-trained models and by optimizing training with techniques like Callbacks.
 
